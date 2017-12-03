@@ -30,12 +30,17 @@ ICP算法是点云配准中的常用算法，其本质上是基于最小二乘�
  transf：求变换矩阵
 
 迭代前:
+
 ![](https://github.com/yanisdxw/computer-vision/blob/master/ICP/screenshots/foot_init.png)
 
-迭代后：
+迭代后:
+
 ![](https://github.com/yanisdxw/computer-vision/blob/master/ICP/screenshots/foot_ite5.png)
 
-f值收敛：
-![](https://github.com/yanisdxw/computer-vision/blob/master/ICP/screenshots/foot_ite5.png)
+f值收敛:
+
+![](https://github.com/yanisdxw/computer-vision/blob/master/ICP/screenshots/cost_function.png)
+
+
 
 
