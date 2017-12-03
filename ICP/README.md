@@ -28,3 +28,8 @@ ICP算法是点云配准中的常用算法，其本质上是基于最小二乘�
  iteration：迭代主程序
  tf_RT：刚体作用矩阵
  transf：求变换矩阵
+
+迭代前：
+![](https://github.com/yanisdxw/computer-vision/ICP/screenshots/foot_init.png)
+迭代后：
+![](https://github.com/yanisdxw/computer-vision/ICP/screenshots/foot_ite5.png)
