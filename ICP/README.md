@@ -22,9 +22,9 @@ ICP算法是点云配准中的常用算法，其本质上是基于最小二乘�
 
 代码文件释义：
 
-appariement：对参考点与目标点进行匹配，得到一组匹配点
-decimation：采样函数
-evolution：均方差估值函数
-iteration：迭代主程序
-tf_RT：刚体作用矩阵
-transf：求变换矩阵
+ appariement：对参考点与目标点进行匹配，得到一组匹配点
+ decimation：采样函数
+ evolution：均方差估值函数
+ iteration：迭代主程序
+ tf_RT：刚体作用矩阵
+ transf：求变换矩阵
